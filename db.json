@@ -1,52 +1,58 @@
-{
-  [
-    {
-      id: 'eb803035-fcd3-40a8-bdab-0ab7a97059f1',
-      customerName: 'iDoc Medical co',
-      dueDate: new Date(),
-      managedBy: 'Implementation Manager',
-      status: MigrationStatus.DocUpload,
-      isProduction: false
-    },
-    {
-      id: '0a91418a-fbf5-4687-ace1-dc23fb578b32',
-      customerName: 'Justin\'s Saad Medical Centre',
-      dueDate: new Date(),
-      managedBy: 'Justin',
-      status: MigrationStatus.DocUpload,
-      isProduction: false
-    },
-    {
-      id: '4cb93532-0620-46eb-9ab3-37d7c18dabe6',
-      customerName: 'iSydney Medical iCentre',
-      dueDate: new Date(),
-      managedBy: 'Harry',
-      status: MigrationStatus.HelixDbCreation,
-      isProduction: true
-    },
-    {
-      id: 'f34754ad-41ad-4cd2-a24e-68fc80a337e4',
-      customerName: 'Bart\'s Broken Arm Repairs',
-      dueDate: new Date(),
-      managedBy: 'Zeyu',
-      status: MigrationStatus.SsisUpdate,
-      isProduction: true
-    },
-    {
-      id: 'e08a597a-201a-4ca6-9ac4-5b63b81411b5',
-      customerName: 'MD Medical',
-      dueDate: new Date(),
-      managedBy: 'Himavaan',
-      status: MigrationStatus.Cancelled,
-      isProduction: true
-    },
-    {
-      id: '1a5a80ef-88c1-49bc-bb90-ecd16f332407',
-      customerName: 'Harrley Porter',
-      dueDate: new Date(),
-      managedBy: 'Hagrid',
-      status: MigrationStatus.Cancelled,
-      isProduction: false
-    }
-  ];
-}
+[
+  {
+    "id": "5c491ddd9e0bc3f4d313e60f",
+    "customername": "Hilary",
+    "dueDate": "YYYY-MM-ddThh:mm:ss Z",
+    "managedBy": "Haney",
+    "status": "MigrationStatus.DocUpload",
+    "isProduction": false
+  },
+  {
+    "id": "5c491dddc9bba92573655f27",
+    "customername": "Francis",
+    "dueDate": "YYYY-MM-ddThh:mm:ss Z",
+    "managedBy": "Aimee",
+    "status": "MigrationStatus.DocUpload",
+    "isProduction": false
+  },
+  {
+    "id": "5c491ddd81998073369c95cf",
+    "customername": "Anastasia",
+    "dueDate": "YYYY-MM-ddThh:mm:ss Z",
+    "managedBy": "Jill",
+    "status": "MigrationStatus.DocUpload",
+    "isProduction": false
+  },
+  {
+    "id": "5c491ddded25233bc4ccb0ca",
+    "customername": "Merrill",
+    "dueDate": "YYYY-MM-ddThh:mm:ss Z",
+    "managedBy": "Hubbard",
+    "status": "MigrationStatus.DocUpload",
+    "isProduction": false
+  },
+  {
+    "id": "5c491ddd8a8c2ca5bfeb7be3",
+    "customername": "Russo",
+    "dueDate": "YYYY-MM-ddThh:mm:ss Z",
+    "managedBy": "Elvia",
+    "status": "MigrationStatus.DocUpload",
+    "isProduction": false
+  },
+  {
+    "id": "5c491dddafda4dca10f99f8a",
+    "customername": "Slater",
+    "dueDate": "YYYY-MM-ddThh:mm:ss Z",
+    "managedBy": "Powers",
+    "status": "MigrationStatus.DocUpload",
+    "isProduction": false
+  },
+  {
+    "id": "5c491ddde1c25ddf65e32b3f",
+    "customername": "Bradshaw",
+    "dueDate": "YYYY-MM-ddThh:mm:ss Z",
+    "managedBy": "Hart",
+    "status": "MigrationStatus.DocUpload",
+    "isProduction": false
+  }
+]
