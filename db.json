@@ -1,14 +1,52 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  [
+    {
+      id: 'eb803035-fcd3-40a8-bdab-0ab7a97059f1',
+      customerName: 'iDoc Medical co',
+      dueDate: new Date(),
+      managedBy: 'Implementation Manager',
+      status: MigrationStatus.DocUpload,
+      isProduction: false
+    },
+    {
+      id: '0a91418a-fbf5-4687-ace1-dc23fb578b32',
+      customerName: 'Justin\'s Saad Medical Centre',
+      dueDate: new Date(),
+      managedBy: 'Justin',
+      status: MigrationStatus.DocUpload,
+      isProduction: false
+    },
+    {
+      id: '4cb93532-0620-46eb-9ab3-37d7c18dabe6',
+      customerName: 'iSydney Medical iCentre',
+      dueDate: new Date(),
+      managedBy: 'Harry',
+      status: MigrationStatus.HelixDbCreation,
+      isProduction: true
+    },
+    {
+      id: 'f34754ad-41ad-4cd2-a24e-68fc80a337e4',
+      customerName: 'Bart\'s Broken Arm Repairs',
+      dueDate: new Date(),
+      managedBy: 'Zeyu',
+      status: MigrationStatus.SsisUpdate,
+      isProduction: true
+    },
+    {
+      id: 'e08a597a-201a-4ca6-9ac4-5b63b81411b5',
+      customerName: 'MD Medical',
+      dueDate: new Date(),
+      managedBy: 'Himavaan',
+      status: MigrationStatus.Cancelled,
+      isProduction: true
+    },
+    {
+      id: '1a5a80ef-88c1-49bc-bb90-ecd16f332407',
+      customerName: 'Harrley Porter',
+      dueDate: new Date(),
+      managedBy: 'Hagrid',
+      status: MigrationStatus.Cancelled,
+      isProduction: false
+    }
+  ];
 }
