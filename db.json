@@ -24,36 +24,4 @@
     "status": "MigrationStatus.DocUpload",
     "isProduction": false
   },
-  {
-    "id": "5c492b003f94c47d892ec5b1",
-    "customername": "Margie",
-    "dueDate": "01-Jan-2019",
-    "managedBy": "Fisher",
-    "status": "MigrationStatus.DocUpload",
-    "isProduction": false
-  },
-  {
-    "id": "5c492b000caf7b77a56c0715",
-    "customername": "Marjorie",
-    "dueDate": "01-Jan-2019",
-    "managedBy": "Guthrie",
-    "status": "MigrationStatus.DocUpload",
-    "isProduction": false
-  },
-  {
-    "id": "5c492b008e794dde721da869",
-    "customername": "Marlene",
-    "dueDate": "01-Jan-2019",
-    "managedBy": "Lois",
-    "status": "MigrationStatus.DocUpload",
-    "isProduction": false
-  },
-  {
-    "id": "5c492b00165c2728a57f9dab",
-    "customername": "Sears",
-    "dueDate": "01-Jan-2019",
-    "managedBy": "Claudette",
-    "status": "MigrationStatus.DocUpload",
-    "isProduction": false
-  }
 ]
