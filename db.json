@@ -1,5 +1,5 @@
 {
-  "migrations":[
+  "posts": [
   {
     "id": "5c492b00ae2593b8d1484eaa",
     "customername": "Bridgette",
@@ -23,5 +23,6 @@
     "managedBy": "Stevenson",
     "status": "MigrationStatus.DocUpload",
     "isProduction": false
-  },
-]
+  }
+  ]
+}
