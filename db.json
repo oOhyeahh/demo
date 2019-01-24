@@ -1,57 +1,57 @@
 [
   {
-    "id": "5c491ddd9e0bc3f4d313e60f",
-    "customername": "Hilary",
-    "dueDate": "YYYY-MM-ddThh:mm:ss Z",
-    "managedBy": "Haney",
+    "id": "5c492b00ae2593b8d1484eaa",
+    "customername": "Bridgette",
+    "dueDate": "01-Jan-2019",
+    "managedBy": "Sanders",
     "status": "MigrationStatus.DocUpload",
     "isProduction": false
   },
   {
-    "id": "5c491dddc9bba92573655f27",
-    "customername": "Francis",
-    "dueDate": "YYYY-MM-ddThh:mm:ss Z",
-    "managedBy": "Aimee",
+    "id": "5c492b007b2fd6d00db4cd23",
+    "customername": "Etta",
+    "dueDate": "01-Jan-2019",
+    "managedBy": "Davenport",
     "status": "MigrationStatus.DocUpload",
     "isProduction": false
   },
   {
-    "id": "5c491ddd81998073369c95cf",
-    "customername": "Anastasia",
-    "dueDate": "YYYY-MM-ddThh:mm:ss Z",
-    "managedBy": "Jill",
+    "id": "5c492b00ac26a2ad766e3bb6",
+    "customername": "Payne",
+    "dueDate": "01-Jan-2019",
+    "managedBy": "Stevenson",
     "status": "MigrationStatus.DocUpload",
     "isProduction": false
   },
   {
-    "id": "5c491ddded25233bc4ccb0ca",
-    "customername": "Merrill",
-    "dueDate": "YYYY-MM-ddThh:mm:ss Z",
-    "managedBy": "Hubbard",
+    "id": "5c492b003f94c47d892ec5b1",
+    "customername": "Margie",
+    "dueDate": "01-Jan-2019",
+    "managedBy": "Fisher",
     "status": "MigrationStatus.DocUpload",
     "isProduction": false
   },
   {
-    "id": "5c491ddd8a8c2ca5bfeb7be3",
-    "customername": "Russo",
-    "dueDate": "YYYY-MM-ddThh:mm:ss Z",
-    "managedBy": "Elvia",
+    "id": "5c492b000caf7b77a56c0715",
+    "customername": "Marjorie",
+    "dueDate": "01-Jan-2019",
+    "managedBy": "Guthrie",
     "status": "MigrationStatus.DocUpload",
     "isProduction": false
   },
   {
-    "id": "5c491dddafda4dca10f99f8a",
-    "customername": "Slater",
-    "dueDate": "YYYY-MM-ddThh:mm:ss Z",
-    "managedBy": "Powers",
+    "id": "5c492b008e794dde721da869",
+    "customername": "Marlene",
+    "dueDate": "01-Jan-2019",
+    "managedBy": "Lois",
     "status": "MigrationStatus.DocUpload",
     "isProduction": false
   },
   {
-    "id": "5c491ddde1c25ddf65e32b3f",
-    "customername": "Bradshaw",
-    "dueDate": "YYYY-MM-ddThh:mm:ss Z",
-    "managedBy": "Hart",
+    "id": "5c492b00165c2728a57f9dab",
+    "customername": "Sears",
+    "dueDate": "01-Jan-2019",
+    "managedBy": "Claudette",
     "status": "MigrationStatus.DocUpload",
     "isProduction": false
   }
