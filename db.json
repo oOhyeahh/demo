@@ -6,7 +6,8 @@
     "dueDate": "01-Jan-2019",
     "managedBy": "Sanders",
     "status": "MigrationStatus.DocUpload",
-    "isProduction": false
+    "isProduction": false,
+    "checked":true
   },
   {
     "id": "5c492b007b2fd6d00db4cd23",
@@ -14,7 +15,8 @@
     "dueDate": "01-Jan-2019",
     "managedBy": "Davenport",
     "status": "MigrationStatus.DocUpload",
-    "isProduction": false
+    "isProduction": false,
+    "checked": true
   },
   {
     "id": "5c492b00ac26a2ad766e3bb6",
@@ -22,7 +24,8 @@
     "dueDate": "01-Jan-2019",
     "managedBy": "Stevenson",
     "status": "MigrationStatus.DocUpload",
-    "isProduction": false
+    "isProduction": false,
+    "checked": true
   }
   ]
 }
