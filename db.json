@@ -1,24 +1,5 @@
-{	
-    "posts": [
-        {
-    "id": "5c492b00ac26a2ad766e3bb6",
-    "customername": "Payne",
-    "id": "5c492b00ae2593b8d1484eaa",	  	  
-    "dueDate": "01-Jan-2019",	 
-    "managedBy": "Sanders",	
-    "status": "MigrationStatus.DocUpload",
-    "isProduction": false,	
-    "checked":true	
-    },	
-    {	
-      "id": "5c492b007b2fd6d00db4cd23",	
-      "customername": "Etta",	
-      "dueDate": "01-Jan-2019",	
-      "managedBy": "Davenport",	
-      "status": "MigrationStatus.DocUpload",	
-      "isProduction": false,	
-      "checked": true	
-    },	
+{
+    "posts": 
     {	
       "id": "5c492b00ac26a2ad766e3bb6",	
       "customername": "Payne",	
@@ -28,5 +9,4 @@
       "isProduction": false,	
       "checked": true	
     }	
-    ]	
   }
