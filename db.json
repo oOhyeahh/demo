@@ -2,7 +2,7 @@
     "posts": [
     {
       "id": "5c492b00ae2593b8d1484eaa",
-      "customername": "Bridgette",
+      "customerName": "Bridgette",
       "dueDate": "01-Jan-2019",
       "managedBy": "Sanders",
       "status": "MigrationStatus.DocUpload",
@@ -11,7 +11,7 @@
     },
     {
       "id": "5c492b007b2fd6d00db4cd23",
-      "customername": "Etta",
+      "customerName": "Etta",
       "dueDate": "01-Jan-2019",
       "managedBy": "Davenport",
       "status": "MigrationStatus.DocUpload",
@@ -20,7 +20,7 @@
     },
     {
       "id": "5c492b00ac26a2ad766e3bb6",
-      "customername": "Payne",
+      "customerName": "Payne",
       "dueDate": "01-Jan-2019",
       "managedBy": "Stevenson",
       "status": "MigrationStatus.DocUpload",
